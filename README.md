@@ -1,7 +1,7 @@
 # Mecklenburg-County
 An exploration of the geometry of Mecklenburg County in North Carolina using Python. 
 
-![Cencus tracts for Mecklenburg County, NC](https://raw.githubusercontent.com/JerryGreenough/Mecklenburg-County/master/mecktracts.png)
+![Cencus tracts for Mecklenburg County, NC](https://raw.githubusercontent.com/JerryGreenough/Mecklenburg-County/master/mecktracts.png | width=400)
 
 Mecklenburg County in North Carolina has a population of 1,077,311 (as of 2017). It is home to the city of Charlotte in addition to smaller towns/municipalities such as Pineville, Matthews, Mint Hill and Huntersville.
 
