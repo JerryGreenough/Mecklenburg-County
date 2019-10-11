@@ -22,3 +22,11 @@ https://matplotlib.org/3.1.1/users/installing.html
 https://geopandas.org/install.html
 
 The GeoJSON data for the geometry of cencus tracts of North Carolina is contained in cb_2018_37_tract_500k.json. This file is large and has been compressed into a .zip file.
+
+<h2>Acknowledgments</h2>
+
+Much of the data used for this project has been made available by Eric Celeste.
+Eric Celeste's website is: https://eric.clst.org/tech/usgeojson
+
+Also, data has been sourced from the Cartographic Boundary Files supplied by the United States Census Bureau.
+https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
