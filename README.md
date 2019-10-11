@@ -1,6 +1,7 @@
 # Mecklenburg-County
 An exploration of the geometry of Mecklenburg County in North Carolina using Python. 
 
+[Cencus tracts for Mecklenburg County, NC]
 <img 
 title="Cencus tracts for Mecklenburg County, NC"
 src="https://raw.githubusercontent.com/JerryGreenough/Mecklenburg-County/master/mecktracts.png" width="500" height="500">
@@ -14,6 +15,6 @@ The work presented here is contained in a Jupyter notebook.
 Please ensure that the Python libraries geopandas and matplotlib are installed prior to running the code. Please see the following links for details: 
 https://matplotlib.org/3.1.1/users/installing.html
 
-geopandas.org/install.html
+https://geopandas.org/install.html
 
 The GeoJSON data for the geometry of cencus tracts of North Carolina is contained in cb_2018_37_tract_500k.json. This file is large and has been compressed into a .zip file.
