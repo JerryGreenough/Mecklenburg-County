@@ -13,7 +13,7 @@ A census tract is a geographic region defined for the purpose of taking a census
 
 Mecklenburg County in North Carolina has a population of 1,077,311 (as of 2017). It is home to the city of Charlotte in addition to smaller towns/municipalities such as Pineville, Matthews, Mint Hill and Huntersville.
 
-The functionality presented here is the fruit of work required to determine and then use GeoJSON data representing county and cencus tract boundaries in North Carolina. It serves as a foundation for further exploration of data related to Mecklenburg County as well as other counties in North Carolina. The ultimate objective is a graphical representation of population figures, life expectancy estimates as well as additional data (based on census tracts) that are provided by CDC.
+The functionality presented here is the fruit of work required to determine and then use GeoJSON data representing county and cencus tract boundaries in North Carolina. It serves as a foundation for further exploration of data related to Mecklenburg County as well as other counties in North Carolina. The ultimate objective is a graphical representation of population figures, life expectancy estimates as well as additional data (based on census tracts) that are provided by CDC. By way of example, life expectancy estimates are made available through a SODA API call to the CDC website - https://data.cdc.gov/resource/5h56-n989.json which returns life expectancy data in JSON format for census tracts within each county for the majority of US states.
 
 The work presented here is contained in a Jupyter notebook.
 
