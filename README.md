@@ -26,7 +26,7 @@ https://geopandas.org/install.html
 The GeoJSON data for the geometry of cencus tracts of North Carolina is contained in cb_2018_37_tract_500k.json. This file is large and has been compressed into a .zip file.
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/JerryGreenough/Mecklenburg-County/master/nctracts.png" width="800" height="230">  
+    <img src="https://raw.githubusercontent.com/JerryGreenough/Mecklenburg-County/master/nctracts.png" width="800" height="280">  
 </p>
 
 <p align="center">
