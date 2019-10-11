@@ -2,8 +2,11 @@
 An exploration of the geometry of Mecklenburg County in North Carolina using Python. 
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/JerryGreenough/Mecklenburg-County/master/mecktracts.png" width="500" height="500">
-    <strong>Cencus tracts for Mecklenburg County, NC</strong>
+    <img src="https://raw.githubusercontent.com/JerryGreenough/Mecklenburg-County/master/mecktracts.png" width="500" height="500">  
+</p>
+
+<p align="center">
+<strong>Cencus tracts for Mecklenburg County, NC</strong>
 </p>
 
 
