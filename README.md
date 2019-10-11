@@ -17,7 +17,7 @@ The functionality presented here is the fruit of work required to determine and 
 
 The work presented here is contained in a Jupyter notebook.
 
-Please ensure that the Python libraries geopandas and matplotlib are installed prior to running the code. Please see the following links for details: 
+Please ensure that the Python libraries ```geopandas``` and ```matplotlib``` are installed prior to running the code. Please see the following links for details: 
 
 https://matplotlib.org/3.1.1/users/installing.html
 
