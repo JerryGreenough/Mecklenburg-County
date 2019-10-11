@@ -1,10 +1,12 @@
 # Mecklenburg-County
 An exploration of the geometry of Mecklenburg County in North Carolina using Python. 
 
-[Cencus tracts for Mecklenburg County, NC]
+
 <img 
 title="Cencus tracts for Mecklenburg County, NC"
 src="https://raw.githubusercontent.com/JerryGreenough/Mecklenburg-County/master/mecktracts.png" width="500" height="500">
+
+[Cencus tracts for Mecklenburg County, NC]
 
 Mecklenburg County in North Carolina has a population of 1,077,311 (as of 2017). It is home to the city of Charlotte in addition to smaller towns/municipalities such as Pineville, Matthews, Mint Hill and Huntersville.
 
@@ -13,6 +15,7 @@ The functionality presented here is the fruit of work required to determine and 
 The work presented here is contained in a Jupyter notebook.
 
 Please ensure that the Python libraries geopandas and matplotlib are installed prior to running the code. Please see the following links for details: 
+
 https://matplotlib.org/3.1.1/users/installing.html
 
 https://geopandas.org/install.html
